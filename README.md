@@ -4,7 +4,7 @@ This repository is the official implementation of [*The NLL Cliff: √d Scaling 
 
 [ArXiv](#) · [Code](https://github.com/user-namego/embedding-tube-cliff)
 
-[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b)](#)
+[![DOI](https://img.shields.io/badge/Zenodo-10.5281/zenodo.22000646-blue)](https://doi.org/10.5281/zenodo.22000646)
 
 ## Abstract
 
@@ -27,10 +27,11 @@ email — `kotyshov [dot] v [dot] i [at] gmail [dot] com`。
 
 ```bibtex
 @misc{kotyshov2026nllcliff,
-  title   = {The NLL Cliff: $\sqrt{d}$ Scaling of a Metric Drop in Embedding-Space Attacks},
-  author  = {Kotyshov, Vladislav},
-  year    = {2026},
-  archivePrefix = {arXiv},
-  primaryClass    = {cs.CL},
-  note    = {Preprint; code and reproduction scripts forthcoming}
+  title = {The NLL Cliff: $\sqrt{d}$ Scaling of a Metric Drop in Embedding-Space Attacks},
+  author = {Kotyshov, Vladislav},
+  year = {2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.22000646},
+  url = {https://doi.org/10.5281/zenodo.22000646},
+  note = {Preprint. Code available at: \url{https://github.com/user-namego/embedding-tube-cliff}}
 }
